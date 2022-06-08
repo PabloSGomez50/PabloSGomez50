@@ -8,7 +8,7 @@ I've started learning programming languages in 2019 with Java through a Free You
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [pablosgomez50@gmail.com](mailto:pablosgomez50@gmail.com)
-* 🚀  I'm currently working on [Proyecto Color Website](http://myapp.com)
+* 🚀  I'm currently working on [Proyecto Color Website](https://github.com/PabloSGomez50/Frontend-Proyecto-Color)
 * 🧠  I'm learning Javascript and React
 * 🤝  I'm open to collaborating on all kind of projects
 
@@ -32,7 +32,7 @@ I've started learning programming languages in 2019 with Java through a Free You
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/232036515910254602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/PabloSGomez50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/seb_gop50/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pablo-gomez-830240227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/232036515910254602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/seb_gop50/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pablo-gomez-830240227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
