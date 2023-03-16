@@ -22,7 +22,7 @@ Cada curso tiene una tabla correspondiente, separada en cinco partes:
 
 | Título / Tema       | Link de acceso  | Idioma    | ** Nivel | Tiempo / Dedicacion |
 | ------------------- |:---------------:|:---------:|:--------:|:-------------------:|
-| Normalizacion 1NF-5NF | [Youtube](https://www.youtube.com/watch?v=GFQaEYEc8_8) | Ingles | Avanzado | 25 Minutos |
+| Normalizacion 1NF-5NF | [![Youtube](https://raw.githubusercontent.com/PabloSGomez50/PabloSGomez50/main/assets/youtube.svg)](https://www.youtube.com/watch?v=GFQaEYEc8_8) | Ingles | Avanzado | 25 Minutos |
 
 ** Niveles: 
  - **Inicial**: se espera que los contenidos sean introductorios al tema. Baja dificultad.
@@ -35,6 +35,7 @@ Cada curso tiene una tabla correspondiente, separada en cinco partes:
 
 | Título / Tema         | Link de acceso            | Idioma        | Nivel       | Tiempo / Dedicacion |
 | --------------------- |:-------------------------:|:-------------:|:-----------:|:-------------------:|
+| Algoritmos de busqueda | [![Github](https://raw.githubusercontent.com/PabloSGomez50/PabloSGomez50/main/assets/github.svg)](https://github.com/TheAlgorithms/Python/tree/master/searches) | Ingles | Avanzado | 10 Minutos |
 |                       |                           |               |             |                     |
 
 ### ii. Fundamentos de Datos
