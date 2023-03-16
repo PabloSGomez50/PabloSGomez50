@@ -14,7 +14,7 @@
     
 ## 1. ¿De qué se trata?
 
-Este es un repositorio colaborativo para que cada integrante de la comunidad Humai pueda compartir materiales útiles para su formación profesional. El objetivo es recopilar información de calidad que sea accesible para todo el mundo. 
+Este es un repositorio colaborativo para que cada integrante de la comunidad Humai pueda compartir materiales útiles para su formación profesional. El objetivo es recopilar información de calidad que sea accesible para todo el mundo.
 
 ## 2. ¿Cómo está organizado?
 
@@ -47,6 +47,8 @@ Cada curso tiene una tabla correspondiente, separada en cinco partes:
  
 
 ## 4. ¿Cómo puedo contribuir?
+
+Podés **cargar el material** que quieras compartir en este [formulario de Google]() y nosotrxs lo subimos.
 
 ¿Tenés ganas de compartir algún material directo en el repositorio y no sabes cómo? Te dejamos este [Tutorial](https://ihumai.medium.com/gitflow-colaborando-en-git-4046f4a95c9c).
 
