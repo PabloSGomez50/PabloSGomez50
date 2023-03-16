@@ -5,10 +5,10 @@
 ## 🔗 Contenidos
 1. [¿De qué se trata?](#1-de-qué-se-trata)
 2. [¿Cómo está organizado?](#2-cómo-está-organizado)
-3. [Cursos](#3-cursos)
+3. [¿Cómo puedo contribuir?](#3-cómo-puedo-contribuir)
+4. [Cursos](#4-cursos)
     1. [Introducción a la Programación con Python](#i-introducción-a-la-programación-con-python)
     2. [Fundamentos de Datos](#ii-fundamentos-de-datos)
-4. [¿Cómo puedo contribuir?](#4-cómo-puedo-contribuir)
 5. [Código de conducta](#5-código-de-conducta)
 6. [Canales de comunicación e intercambio con la comunidad](#6-canales-de-comunicación-e-intercambio-con-la-comunidad) 
     
@@ -29,7 +29,13 @@ Cada curso tiene una tabla correspondiente, separada en cinco partes:
  - **Avanzado**: contenidos para profundizar en el tema. Media o alta dificultad.
  - **Complementario**: articulos periodisticos y/o de difusion relacionados al tema.
 
-## 3. Cursos
+## 3. ¿Cómo puedo contribuir?
+
+Podés **cargar el material** que quieras compartir en este [formulario de Google]() y nosotrxs lo subimos.
+
+¿Tenés ganas de compartir algún material directo en el repositorio y no sabes cómo? Te dejamos este [Tutorial](https://ihumai.medium.com/gitflow-colaborando-en-git-4046f4a95c9c).
+
+## 4. Cursos
 
 ### i. Introducción a la Programación con Python
 
@@ -45,13 +51,7 @@ Cada curso tiene una tabla correspondiente, separada en cinco partes:
 | Soluciones Clase II   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11HdqjiPZjbtj0VsSJQtFYvNUnI11pVxu) | Español | Incial | 15 Minutos |
 |                       |                           |               |             |                     |
  
-
-## 4. ¿Cómo puedo contribuir?
-
-Podés **cargar el material** que quieras compartir en este [formulario de Google]() y nosotrxs lo subimos.
-
-¿Tenés ganas de compartir algún material directo en el repositorio y no sabes cómo? Te dejamos este [Tutorial](https://ihumai.medium.com/gitflow-colaborando-en-git-4046f4a95c9c).
-
+ 
 ## 5. Código de conducta
 
 Para ser parte de la comunidad de Humai es necesario seguir las siguientes normas de buen comportamiento:
